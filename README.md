@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyuswh" alt="piyuswh" /></a> </p>
 
-- 🔭 I’m currently working on **CodeZone**
+- 🔭 I’m currently working on **pulseConnect**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **GraphQL**
 
 - I'm looking for **Internship**
 
